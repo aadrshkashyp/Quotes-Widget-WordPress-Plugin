@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Quote Widget Plugin
-Description: A simple widget to display quotes from selected category posts.
+Plugin Name: Quote from Post Plugin
+Description: A simple widget plugin to display quotes from selected category posts.
 Author: Aadarsh Kashyap
 Website: https://aadarshkashyap.com
 Version: 1.0

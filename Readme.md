@@ -1,6 +1,6 @@
-# Quote Widget
+# Quote From Post Plugin
 
-A simple WordPress widget to display quotes from selected category posts.
+A simple WordPress widget plugin to display quotes from selected category posts.
 
 ## Description
 
